@@ -2,11 +2,18 @@
   text-align: center;
 }
 
+h2{
+ color: #433451;
+ font-family: 'Source Sans Pro', sans-serif;
+}
+
 #Title {
   font-family: 'Dancing Script';
   font-size: 72px;
-  color: #0ccac4;
+  color: #AE76BD;
+  margin-bottom: 10px;
 }
+
 
 .App-logo {
   height: 40vmin;
